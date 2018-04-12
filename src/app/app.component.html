@@ -1,16 +1,18 @@
-<div class="row h">
-	<div class="col-sm-6 fa">
-		<i class="fab fa-facebook-f p1"></i>
-		<i class="fab fa-twitter p1"></i>
-		<i class="fab fa-google-plus-g p1"></i>
-		<i class="fab fa-linkedin-in p1"></i>
+<div class="container-fluid">
+<div class="row">
+	<div class="col-sm-9">
+		<i class="fab fa-facebook-f f1"></i>
+		<i class="fab fa-twitter f1"></i>
+		<i class="fab fa-google-plus-g f1"></i>
+		<i class="fab fa-linkedin-in f1"></i>
 	</div>
-	<div class="col-sm-6 fa1">
-		<i class="fas fa-phone c1"></i>
+	<div class="col-sm-3">
+		<i class="fas fa-phone f2"></i>
 		<span class="b">+(012) 345 6789</span>
-		<i class="fas fa-envelope c1"></i>
+		<i class="fas fa-envelope f2"></i>
 		<span class="b">wtouch@info.com</span>
 	</div>
+</div>
 </div>
 
 
@@ -19,7 +21,7 @@
  <div class="navbar-brand"><img class="i" src="../assets/img/MMEAC Logo.png"></div>
   
   <!-- Links -->
-  <ul class="navbar-nav p n">
+  <ul class="navbar-nav ml-auto">
       <li class="nav-item"><a routerLink = "/Home" class="nav-link"><h5>HOME</h5></a></li>
       <li class="nav-item"><a routerLink = "/AboutUs" class="nav-link"><h5>ABOUT US</h5></a></li>
       <li class="nav-item"><a routerLink = "/Courses" class="nav-link"><h5>COURSES</h5></a></li>
@@ -29,9 +31,38 @@
 </nav>
 
 
+<ngb-carousel>
+  <ng-template ngbSlide>
+    <img src="../assets/img/art11.jpg" alt="Random first slide">
+    <div class="carousel-caption">
+      <h3>First slide</h3>
+      <h4>Art,Craft & Hobby</h4>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <img src="../assets/img/comp11.jpg" alt="Random second slide">
+    <div class="carousel-caption">
+      <h3>Second slide</h3>
+      <h4>Computer</h4>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <img src="../assets/img/cook11.jpg" alt="Random third slide">
+    <div class="carousel-caption">
+      <h3>Third slide</h3>
+      <h4>Cooking</h4>
+    </div>
+  </ng-template>
+  <ng-template ngbSlide>
+    <img src="../assets/img/sci11.jpg" alt="Random third slide">
+    <div class="carousel-caption">
+      <h3>Forth slide</h3>
+      <h4>Science & Robotics</h4>
+    </div>
+  </ng-template>
+</ngb-carousel>
 
 
-<div class = "middle">
 
-</div>
+
 <router-outlet></router-outlet>
