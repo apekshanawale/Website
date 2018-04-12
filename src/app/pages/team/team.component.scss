@@ -1,3 +1,24 @@
-.row{
-	background-color:#d2e0f9;
+.back{
+	background-color:black;
+	margin-top:-125px;
+	padding:20px;
+}
+img{
+	width:250px;
+	height:250px;
+	margin-top:30px;
+	border:1px solid black;
+	border-radius:50px;
+	text-align:center;
+	transition:all 1s ease;
+	
+}
+img:hover{
+	transform:scale(1.1);
+}
+h1{
+	padding:20px;
+}
+h3{
+	margin-top:50px;
 }
