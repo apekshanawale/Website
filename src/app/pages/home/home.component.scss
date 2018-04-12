@@ -1,0 +1,29 @@
+body{
+		background-color:#d2e0f9;
+		border:1px solid black;
+		margin-top:-41px;
+		padding:25px 70px 25px 70px;
+}
+@font-face{
+		font-family:myfont;
+		src:url("/assets/font/Adine Kirnberg.ttf");
+}
+h1{
+	text-align:center;
+	font-family:myfont;
+	font-size:100px;
+	color:red;
+	font-style:bold;
+	border-bottom:1px solid black;
+}
+h2{
+	text-align:center;
+	font-family:myfont;
+	color:#93c83f;
+	font-size:50px;
+}
+p{
+	text-indent:50px;
+	font-size:20px;
+}
+
