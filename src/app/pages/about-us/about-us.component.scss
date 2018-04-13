@@ -1,5 +1,5 @@
 body{
-		background-color:#d2e0f9;
+		background: linear-gradient(to right, #66ff99, #66ff33);
 		border:1px solid black;
 		margin-top:0px;
 		padding:25px 70px 25px 70px;
@@ -13,14 +13,13 @@ h1{
 	font-family:myfont;
 	font-size:100px;
 	color:navy;
-	font-style:bold;
-	
+	font-weight:bold;
 }
 h3{
-	font-size:70px;
+	font-size:55px;
 	font-family:myfont;
-	font-style:bold;
-	color:#93c83f;
+	font-weight:bold;
+	color:#ff0055;
 	border-bottom:1px solid black;
 }
 p{

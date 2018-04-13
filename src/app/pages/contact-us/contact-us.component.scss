@@ -1,11 +1,21 @@
 .back{
-	background-color:#304313;
-	margin-top:-20px;
 	padding:20px;
+	background: linear-gradient(to right, #66ff99, #66ff33);
+	border:1px solid black;
+}
+@font-face{
+		font-family:myfont;
+		src:url("/assets/font/Adine Kirnberg.ttf");
+}
+h1{
+	font-weight:bold;
+	font-family:myfont;
+	font-size:100px;
+	color:navy;
 }
 h6{
 	font-size:28px;
-	color:white;
+	color:black;
 	margin-top:70px;
 }
 .btn{

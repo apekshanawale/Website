@@ -1,13 +1,22 @@
 body{
-	background-color:#93c83f;
+	/*background-color:#CCCC66;*/
 	margin-top:-20px;
 	padding:20px;
+	background: linear-gradient(to right, #66ff99, #66ff33);
+	border:1px solid black;
+}
+@font-face{
+		font-family:myfont;
+		src:url("/assets/font/Adine Kirnberg.ttf");
 }
 h1{
 	text-align:center;
-	font-size:40px;
+	//font-size:40px;
 	font-weight:bold;
 	padding:40px;
+	font-family:myfont;
+	font-size:100px;
+	color:navy;
 }
 p{
 	text-align:center;
@@ -23,16 +32,17 @@ h2{
 	background-color:white;
 	padding:15px;
 	width:360px;
+	margin-left:15px;
 }
 h4{
 	text-align:center;
 	font-weight:bold;
-	margin-top:-60px;
+	margin-top:-57px;
 	opacity:0.5;
 	background-color:white;
 	padding:10px;
 	font-size:31px;
-	margin-left:1px;
+	margin-left:16px;
 	width:360px;
 }
 h3{
@@ -43,11 +53,8 @@ h3{
 	background-color:white;
 	padding:10px;
 	font-size:30px;
-	margin-left:1px;
+	margin-left:16px;
 	width:360px;
-}
-.center{
-	text-align:center;
 }
 .img{
 	width:360px;
