@@ -1,28 +1,91 @@
-.back{
-	/*background-color:black;*/
-	padding:50px;
-	background: linear-gradient(to right, #66ff99, #66ff33);
-	border:1px solid black;
-}
 
-img{
-	width:250px;
-	height:250px;
-	margin-top:30px;
-	border:1px solid black;
-	border-radius:50px;
-	text-align:center;
-	transition:all 1s ease;
-	
-}
-img:hover{
-	transform:scale(1.1);
-}
+$col1:#101010;
+$col2:#FFFFFF;
+$col3:#787878;
 h1{
-	padding:20px;
-	font-weight:bold;
+	text-align:center;
+	color:$col2;
+	padding-bottom:20px;
+	padding-top:90px;
 }
-h3{
-	margin-top:50px;
-	
+h5{
+	text-align:center;
+	color:$col3;
+	margin-bottom:-40px;
+}
+.body1{
+background-color:$col1;
+height:700px;
+	.container
+	{
+		.row
+		{
+			text-align : center;
+		}
+	}
+}
+.team{
+	color:#e7185c;
+}
+.rounded-circle{
+	margin-top:80px;
+	border:5px solid gray;
+}
+.name{
+	margin-left:15px;
+	font-size:22px;
+	color:#b1b1b1;
+	padding-top:13px;
+}
+.place{
+	margin-bottom:20px;
+	font-size:13px;
+	margin-left:15px;
+	color:#eaeaea;
+}
+p{
+	font-size:14px;
+	color:#6c7279;
+}
+.place1{
+	margin-left:20px;
+	color:#eaeaea;
+}
+.place2{
+	margin-left:25px;
+	color:#eaeaea;
+}
+.team .icon:hover{
+background-color:#88cc00;
+color:white;
+}
+.icon{
+	color:#88cc00;
+	border-radius:0%;
+	font-size:14px;
+	border:1px solid #88cc00;
+	padding:7px;
+	width:32px;
+	height:32px;
+	text-align:center;
+	margin:3px;
+	margin-top: 22px;
+}
+.director{
+	margin-top:25px;
+}
+h6{
+color:#787878;
+font-size: 13px;
+}
+.row{
+	.director{
+		a{
+		color:#88cc00;
+		}
+		a:hover
+		{
+		color:white;
+		}
+	}
 }
