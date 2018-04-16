@@ -1,8 +1,8 @@
 body{
-	/*background-color:#CCCC66;*/
+	background-color:#f5f5f5;
 	margin-top:-20px;
 	padding:20px;
-	background: linear-gradient(to right, #66ff99, #66ff33);
+	/*background: linear-gradient(to right, #66ff99, #66ff33);*/
 	border:1px solid black;
 }
 @font-face{
@@ -64,13 +64,21 @@ h3{
 
 .box{
 	width:360px;
-	height:150px;
+	height:170px;
 	background-color:white;
 	margin-left:0px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+}
+.u{
+	margin-left:-16px;
+}
+.u1{
+	margin-top:-10px;
 }
 .box1{
 	width:361px;
 	height:150px;
 	background-color:white;
 	margin-left:41px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
 }

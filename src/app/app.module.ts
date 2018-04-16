@@ -10,13 +10,15 @@ import { AboutUsComponent } from './pages/about-us/about-us.component';
 import { CoursesComponent } from './pages/courses/courses.component';
 import { TeamComponent } from './pages/team/team.component';
 import { ContactUsComponent } from './pages/contact-us/contact-us.component';
+import { ComputerComponent } from './pages/computer/computer.component';
 
 const appRoutes: Routes = [
 	 { path: '', component: HomeComponent },
 	 { path: 'AboutUs', component:AboutUsComponent },
 	 { path: 'Courses', component: CoursesComponent },
 	 { path: 'Team', component: TeamComponent },
-	 { path: 'ContactUs', component: ContactUsComponent }
+	 { path: 'ContactUs', component: ContactUsComponent },
+	 { path: 'Computer', component: ComputerComponent }
 	
 ]
 
@@ -28,7 +30,8 @@ const appRoutes: Routes = [
     AboutUsComponent,
     CoursesComponent,
     TeamComponent,
-    ContactUsComponent
+    ContactUsComponent,
+    ComputerComponent
   ],
   imports: [
     BrowserModule,
