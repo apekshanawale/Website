@@ -1,6 +1,6 @@
 body{
-		/*background-color:#c4ff4d;*/
-		background: linear-gradient(to right, #66ff99, #66ff33);
+		background-color:#93c83f;
+		//background: linear-gradient(to right, #66ff99, #66ff33);
 		border:1px solid black;
 		margin-top:0px;
 }
@@ -27,4 +27,16 @@ p{
 	text-indent:50px;
 	font-size:20px;
 }
-
+.t{
+	background-color:rgba(0,0,0,0.9);
+	width:400px;
+	margin-left:330px;
+	color:#93c83f;
+}
+img{
+	height:600px;
+	width:100%;
+}
+h3{
+	font-size:40px;
+}
