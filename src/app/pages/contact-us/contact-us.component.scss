@@ -22,21 +22,42 @@ h6{
 	margin-left:250px;
 }
 .con{
-	background-color:white;
-	margin-top:80px;
+	/*background-color:white;*/
+	margin-top:43px;
 	padding:20px;
+	margin-left:-3px
 }
 .text{
-	font-size:25px;
-	padding-right:15px;
-	margin-left:55px;
+	background-color:#93c83f;
+	padding:12px;
+	border-radius:41%;
+	width:50px;
+	height:50px;
+	text-align:center;
+	margin:3px;
+	
+	font-size:26px;
+	color:black;
+	display:inline-block;
+}
+.fab1{
+	margin-left:277px;
+	margin-top:-16px;
 }
 .text1{
 	text-align:center;
 	font-size:25px;
 	font-weight:bold;
 	margin-bottom:40px;
+	margin-left: 194px;
 }
 .text:hover{
-	color:#93c83f;
+	color:white;
+}
+iframe{
+	margin-left: -149px;
+	margin-bottom: 76px;
+	margin-top: 66px;
+	width: 720px;
+	height: 352px;
 }
