@@ -29,17 +29,23 @@
 .navbar{
 		background-color:white;
 		height:73px;
+		
+		.collapse{
 
-		.navbar-nav
+		.nav
 		{
-			.active>a
+			li.active
 			{
+			
+				a{
 				background-color:#93c83f;
 				color:white;
 				font-weight:bold;
 				height:73px;
 				padding-right:10px;
+				}
 			}
+		}
 		}
 }
 
