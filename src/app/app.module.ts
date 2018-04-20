@@ -15,9 +15,9 @@ import { ComputerComponent } from './pages/computer/computer.component';
 
 const appRoutes: Routes = [
 
-	 { path: '', redirectTo: "/Home", pathMatch : "full" },
+	// { path: '', redirectTo: "/Home", pathMatch : "full" },
 	// { path: 'Home', component: HomeComponent },
-	 //{ path: '', component: HomeComponent },
+	 { path: '', component: HomeComponent },
 	 { path: 'AboutUs', component:AboutUsComponent },
 	 { path: 'Courses', component: CoursesComponent },
 	 { path: 'Team', component: TeamComponent },
