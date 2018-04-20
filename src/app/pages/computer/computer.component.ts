@@ -31,7 +31,7 @@ export class ComputerComponent implements OnInit {
   constructor(public route : ActivatedRoute, public http : Http) {
 	this.route.params.subscribe(params => {
 		console.log(params);
-		//this.pageData = this.data[params.courseName];
+		/*this.pageData = this.data[params.courseName];*/
 		this.getData(params.courseName);
 		console.log(this.pageData)
 	})
