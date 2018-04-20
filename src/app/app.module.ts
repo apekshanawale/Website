@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpModule } from '@angular/http';
 import {RouterModule,Routes} from '@angular/router';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -13,12 +14,15 @@ import { ContactUsComponent } from './pages/contact-us/contact-us.component';
 import { ComputerComponent } from './pages/computer/computer.component';
 
 const appRoutes: Routes = [
+
+	 //{ path: '', redirectTo: "/Home", pathMatch : "full" },
+	// { path: 'Home', component: HomeComponent },
 	 { path: '', component: HomeComponent },
 	 { path: 'AboutUs', component:AboutUsComponent },
 	 { path: 'Courses', component: CoursesComponent },
 	 { path: 'Team', component: TeamComponent },
 	 { path: 'ContactUs', component: ContactUsComponent },
-	 { path: 'Computer', component: ComputerComponent }
+	 { path: 'course/:courseName', component: ComputerComponent }
 	
 ]
 
@@ -35,6 +39,7 @@ const appRoutes: Routes = [
   ],
   imports: [
     BrowserModule,
+	HttpModule,
 	NgbModule.forRoot(),
 	RouterModule.forRoot(appRoutes)
   ],

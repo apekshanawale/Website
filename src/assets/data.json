@@ -1,0 +1,14 @@
+{
+	"photoshop": {
+		"title": "PhotoShop",
+		"heading": "PhotoShop Course",
+		"content": "<p>PhotoShop Course Content.</p>",
+		"image": "/assets/img/photoshop.jpg"
+	},
+	"coreldraw": {
+		"title": "coreldraw",
+		"heading": "coreldraw Course",
+		"content": "<p>coreldraw Course Content.</p>",
+		"image": "/assets/img/coreldraw.jpg"
+	}
+}
