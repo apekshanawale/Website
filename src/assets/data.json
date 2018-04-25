@@ -2,12 +2,12 @@
 	"photoshop": {
 		"title": "PhotoShop",
 		"heading": "PhotoShop Course",
-		"content": "<p>PhotoShop Course Content.</p>",
-		"image": "/assets/img/photoshop.jpg"
+		"content": "<h2>PhotoShop Course Content.</h2><ol><li>Getting Started</li><li>Interface Layout</li><li>Palettes</li><li>Toolbox</li><li>Selection Tools</li><li>Alteration Tools</li><li>Drawing and Selection Tools</li><li>Assisting Tools</li><li>Color Boxes and Modes</li><li>Basic Image Editing</li><li>Cropping</li><li>Resizing</li><li>Correcting</li><li>Saving</li></ol>",
+		"image": "/assets/Photoshop Syllabus.pdf"
 	},
 	"coreldraw": {
 		"title": "coreldraw",
-		"heading": "coreldraw Course",
+		"heading": "CorelDraw Course",
 		"content": "<p>coreldraw Course Content.</p>",
 		"image": "/assets/img/coreldraw.jpg"
 	}
