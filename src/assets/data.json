@@ -2,13 +2,67 @@
 	"photoshop": {
 		"title": "PhotoShop",
 		"heading": "PhotoShop Course",
-		"content": "<h2>PhotoShop Course Content.</h2><ol><li>Getting Started</li><li>Interface Layout</li><li>Palettes</li><li>Toolbox</li><li>Selection Tools</li><li>Alteration Tools</li><li>Drawing and Selection Tools</li><li>Assisting Tools</li><li>Color Boxes and Modes</li><li>Basic Image Editing</li><li>Cropping</li><li>Resizing</li><li>Correcting</li><li>Saving</li></ol>",
+		"content": "<h2>Photoshop Course Content</h2><p>Adobe Photoshop CS6 is a popular image editing software that provides a work environment consistent with Adobe Illustrator, Adobe InDesign, Adobe Photoshop and other products in the Adobe Creative Suite. This tutorial is an introduction to using Adobe Photoshop. Here you will learn how to get started, how to use the interface, and how to modify images with basic editing skills.</p><h2>PhotoShop Course Content.</h2><ol><li>Getting Started</li><li>Interface Layout</li><li>Palettes</li><li>Toolbox</li><li>Selection Tools</li><li>Alteration Tools</li><li>Drawing and Selection Tools</li><li>Assisting Tools</li><li>Color Boxes and Modes</li><li>Basic Image Editing</li><li>Cropping</li><li>Resizing</li><li>Correcting</li><li>Saving</li></ol>",
 		"image": "/assets/Photoshop Syllabus.pdf"
 	},
 	"coreldraw": {
 		"title": "coreldraw",
 		"heading": "CorelDraw Course",
-		"content": "<p>coreldraw Course Content.</p>",
+		"content": "<h2>CorelDraw Course Content.</h2><ul><li>Getting started with Corel Draw<ul><li>Introduction to CorelDraw</li><li>Features of CorelDraw</li><li>CorelDraw Interface</li><li>Tool Box</li><li>Moving from Adobe Illustrator to Corel Draw</li><li>Common Tasks</li></ul></li><li>Drawing and Coloring<ul><li>Introduction</li><li>Selecting Objects</li><li>Creating Basic Shapes</li><li>Reshaping Objects</li><li>Organising objects</li><li>Applying color fills and Outlines</li></ul></li><li>Mastering with Text<ul><li>Introduction</li><li>Text Tool</li><li>Artistic and paragraph text</li><li>Formatting Text</li><li>Embedding Objects into text</li><li>Wrapping Text around Object</li><li>Linking Text to Objects</li></ul></li><li>Applying Effects<ul><li>Introduction</li><li>Power of Blends</li><li>Distortion</li><li>Contour Effects</li><li>Envelopes</li><li>Lens effects</li><li>Transparency</li><li>Creating Depth Effects</li><li>Power Clips</li></ul></li><li>Working with Bitmap Commands<ul><li>Introduction</li><li>Working with Bitmaps</li><li>Editing Bitmaps</li><li>Applying effects on Bitmaps</li><li>Printing</li></ul></li><li>Corel Draw- Web resources<ul><li>Introduction</li><li>Internet Tool bar</li><li>Setting your webpage</li><li>Exporting files</li><li>Creating buttons with rollover effects</li></ul></li></ul>",
 		"image": "/assets/img/coreldraw.jpg"
+	},
+	"tally": {
+		"title": "tally",
+		"heading": "Tally ERP-9",
+		"content": "<h2>Tally ERP-9 Course Content.</h2><ol><h5><li>Basics of Accounting</li></h5><p>Types of Accounts, Golden Rules of Accounting, Accounting principles, Concepts and Conventions, Double Entry System of Book Keeping, Mode of Accounting, Financial statements, Transactions, Recording Transactions.</p><h5><li>Fundamentals of Tally.ERP 9</h5><ul><li>Getting Functional with Tally.ERP 9</li><li>Creation/Setting up of Company in Tally.ERP 9</li></ul></li><h5><li>Accounting Masters in Tally.ERP 9</h5><ul><li>F11:Features</li><li>F12:Configurations</li><li>setting up Account Heads</li></ul></li><h5><li>Inventory in Tally.ERP 9</li></h5><ul><li>Stock Groups</li><li>Stock Categories</li><li>Godowns/Locations</li><li>Units of Measure</li><li>Stock Items</li><li>Creating Inventory Masters for National Traders</li></ul><h5><li>Voucher Entry in Tally ERP.9</h5><ul><li>Accounting Voucher</li><li>Inventory Voucher</li><li>Invoicing</li></ul></li><h5><li>Advanced Accounting in Tally.ERP 9</h5><ul><li>Bill-wise details</li><li>Cost Centers and Cost Categories</li><li>Voucher class and cost center class</li><li>Multiple Currencies</li><li>Bank Reconciliation</li><li>Interest Calculaions</li><li>Budgets and controls</li><li>Scenario Management</li></ul></li><h5><li>Advanced Inventory in Tally.ERP 9</h5><ul><li>Order Processing</li><li>Reorder Levels</li><li>Tracking Numbers</li><li>Batch-wise details</li><li>Additional Cost Details</li><li>Bill of Materials(BoM)</li><li>Price levels and Price List</li><li>Stock Valuation</li><li>Zero Valued Enteries</li><li>Inventory ageing Analysis</li><li>Different Actual and Bill Quantities</li></ul></li><h5><li>Value Added Tax(VAT)</h5><ul><li>Configuring VAT in Tally.ERP 9</li><li>Creating Masters</li><li>Entering Transactions</li><li>Accounting for Return of goods</li><li>Rate Difference in Purchase/Sales</li><li>Accounting for Interstate Transactions</li><li>Exempts Transactionsctions under VAT</li><li>Purchases from unregistered Dealers</li><li>Claiming ITC on Capital Goods</li><li>Inter-State Branch Transfers</li><li>VAT Reports</li><li>VAT for Composite Dealers</li></ul></li><h5><li>Central Sales Tax(CST)</h5><ul><li>Basics of Central Sales Tax(CST)</li><li>Enabling CST in Tally.ERP 9</li><li>Recording Interstate Transactions in Tally.ERP 9</li><li>Payment of CST</li><li>CST Reports</li></ul></li></ol>",
+		"image": "/assets/img/coreldraw.jpg"
+	},
+	"basic": {
+		"title": "Basic Computer",
+		"heading": "Basic Computer Course",
+		"content": "<h2>Basic Computer Course Content</h2><ul><li>Knowing Computer</li><li>Programs/Application</li><li>Understanding Word Processing</li><li>WWW and Web Browsers</li><li>Introduction to Internet</li><li>Software/Operating System</li><li>Making small presentation</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"illustrator": {
+		"title": "Illustrator",
+		"heading": "Illustrator Course",
+		"content": "<h2>Illustrator Course Content</h2><ul><li>Drawing in illustrator</li><li>Type & Type Tool</li><li>Appearance & Fill</li><li>Grouping Objects</li><li>Working Eciently with Symbols</li><li>Choosing Illustrator for Web and Interactive Design</li><li>Personal Project</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"indesign": {
+		"title": "InDesign",
+		"heading": "In Design Course",
+		"content": "<h2>In Design Course Content</h2><ul><li>Introduction to Class</li><li>Manipulating Text</li><li>Critique and Hierarchy</li><li>Color And Transparency</li><li>Brochure project</li><li>Animation and Interactive</li><li>Video(Explore video,and Hyperlinks)</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"web": {
+		"title": "Web Design",
+		"heading": "Web Design Course",
+		"content": "<h2>Web Design Course Content</h2><ul><li>Photoshop</li><li>HTML 5</li><li>CSS 3</li><li>Bootstrap</li><li>Photoshop to HTML Conversion</li><li>Javascript</li><li>JQuery</li><li>AngularJS-V1</li><li>Live Project(2 Website)</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"ms-office": {
+		"title": "MS-Office",
+		"heading": "MS-Office Course",
+		"content": "<h2>MS-Office Course Content</h2><ul><li><h6>Microsoft Word</h6><ul><li>Components of the Word ribbon</li><li>Using the mini toolbar</li><li>Customising Word's Quick</li><li>Access toolbar</li><li>Formatting with styles</li><li>Using the navigation pane</li><li>Inserting the Word table</li></ul></li><li><h6>Microsoft Excel</h6><ul><li>Components of the Excel ribbon</li><li>Using the Quick Analysis tool</li><li>Creating simple formulae</li><li>Using simple</li><li>Functions</li><li>Using AutoFill</li><li>creating simple chart</li><li>Creating simple an Excel table</li><li>Applying</li><li>Conditional Formatting</li></ul></li><li><h6>Microsoft Outlook</h6><ul><li>Components of outlook</li><li>ribbon</li><li>Layout of outlook home</li><li>page</li><li>Working with emails</li><li>Creating quick steps rules</li><li>Adding contacts</li><li>creating calender events and meetings</li><li>Using the screenshot tool</li><li>Using outlook web access</li></ul></li><li><h6>Microsoft PowerPoint</h6><ul><li>Components of the PowerPoint</li><li>Ribbon</li><li>Adding new slides with different</li><li>layouts</li><li>Adding SmartArt graphics</li><li>Changing the design</li><li>Adding animation</li><li>Adding transition effects</li><li>Playing the slideshow</li></ul></li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"handcraft": {
+		"title": "Art & Craft",
+		"heading": "Art & Craft Course",
+		"content": "<h2>Art & Craft Course Content</h2><div class=\"col-sm-4\"><img class=\"img\" src=\"assets/img/art1.jpg\"><div class=\"box\"><h2 class=\"text-center\">Drawing art</h2></div></div>",
+		"image": "/assets/img/art1.jpg"
+	},
+	"rangoli": {
+		"title": "Rangoli",
+		"heading": "Rangoli Course",
+		"content": "<h2>Rangoli Course Content</h2><ul><li>Sanskar Bharti</li><li>South Indian</li><li>Maharashtra</li><li>Kolongal</li><li>Muggulu</li><li>Creative</li><li>Nature</li><li>Romantic</li><li>Peacock</li><li>Competition</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
+	},
+	"mehandi": {
+		"title": "Mehandi",
+		"heading": "Mehandi Course",
+		"content": "<h2>Mehandi Course Content</h2><ul><li>Arabic Mehandi</li><li>Wedding Mehandi</li><li>Tattoo</li><li>Heena Design</li><li>Rajthtani Mehandi</li><li>Karva Chauth</li></ul>",
+		"image": "/assets/Photoshop Syllabus.pdf"
 	}
 }
